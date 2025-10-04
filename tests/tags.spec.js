@@ -11,8 +11,8 @@ import{test,expect} from '@playwright/test'
         console.log("test 3 started")
         
     })
-    // new branch created and added tags by sakthi
     test("@smoke@reg test 4",async () => {
         console.log("test 4 started")
         
     })
+    
