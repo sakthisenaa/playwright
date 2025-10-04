@@ -11,3 +11,8 @@ import{test,expect} from '@playwright/test'
         console.log("test 3 started")
         
     })
+    // added new tags by sakthi senaa
+    test("@smoke@reg test 4",async () => {
+        console.log("test 4 started")
+        
+    })
