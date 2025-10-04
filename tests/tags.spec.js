@@ -16,3 +16,7 @@ import{test,expect} from '@playwright/test'
         console.log("test 4 started")
         
     })
+    test("@smoke@reg test 5",async () => {
+        console.log("test 5 started")
+        
+    })
